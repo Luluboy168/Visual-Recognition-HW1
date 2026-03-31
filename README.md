@@ -16,7 +16,7 @@ pip install -r requirements.txt
 Please place the dataset in a `data/` folder at the root of this repository (at the same level as the `codes/` directory). The scripts expect the following structure:
 
 ```text
-final/
+Visual-Recognition-HW1/
 ├── codes/
 │   ├── train.py
 │   ├── dataset.py
